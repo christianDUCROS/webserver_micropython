@@ -1,2 +1,3 @@
 # webserver_micropython
 Raspberry pi pico and esp32
+Vous pouvez faire un serveur de fichiers mais également un serveur qui affiche les datas tout en gérant le fonctionnement ( par exemple un termostat ui en autonomie le chauffage et aussi affiche la température et l'état du chauffage  sur une page web que l'on va consulter. On peut également envoyer des commandes ... 
